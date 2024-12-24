@@ -21,7 +21,3 @@ A JavaScript project to dynamically manage a movie collection. This lab demonstr
 
 - JavaScript Fundamentals: Variables, Functions, Arrays, Objects.
 - Modern JavaScript Features: Destructuring, Template Literals.
-
-## Submission
-
-Document challenges or learnings and upload to GitHub for evaluation.
